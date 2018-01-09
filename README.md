@@ -1,5 +1,5 @@
 # U-Turn
-Simple uturn that probably doesn't work. (RaspberryPi, RoboPi, Servo Motors, Python)
+Simple u-turn that probably doesn't work. (RaspberryPi, RoboPi, Servo Motors, Python)
 
 How to Use The Code:
 1. Open Terminal
